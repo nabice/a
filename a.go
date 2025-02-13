@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nabice/golist/b"
+import "github.com/nabice/b"
 
 func main() {
 	b.FF()
